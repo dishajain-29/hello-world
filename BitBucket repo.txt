@@ -1,0 +1,12 @@
+IA.Common.AribaReportGeneration_AllRegions
+IA_Micron_LanguageTranslator
+This library is used to translate language from other to english
+AI.0017.InvoiceProcessinginAriba_US_Performer_2
+AI.0018.InvoiceProcessinginAriba_TW_Performer
+AI.0019.InvoiceProcessinginAriba_CH_Performer_2
+AI.0020.InvoiceProcessinginAriba_JP_Performer
+IA.0001.Invoice Processing in Ariba Dispatcher_SG
+IA.0001.InvoiceProcessinginAriba_SG_Performer
+IA.0017.InvoiceProcessingPartnerBankUpdation_SG_Performer
+IA.0017.InvoiceProcessingPartnerBankUpdation_US_Performer_2
+IA.0019.InvoiceProcessingPartnerBankUpdation_CH_Performer
