@@ -1,0 +1,4 @@
+$LibraryPath = "https://microncorp.sharepoint.com/sites/GlobalFinanceCOE/Shared Documents"
+ #Map Path as Network Drive
+$Network = new-object -ComObject WScript.Network
+$Network.MapNetworkDrive('A:', $LibraryPath)
